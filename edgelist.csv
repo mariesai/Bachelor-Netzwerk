@@ -100,7 +100,7 @@ ErPa,B1,Teilnahme,2019
 ChGr,B1,Teilnahme,2019
 JaLa,B1,Teilnahme,2019
 JeLa,B1,Teilnahme,2019
-JaÜb,B1,Teilnahme,2019
+JaUb,B1,Teilnahme,2019
 NaZe,B1,Teilnahme,2019
 KiSc,B1,Teilnahme,2019
 EvBe,B1,Teilnahme,2019
@@ -122,12 +122,12 @@ ChGr,BIP,Teilnahme,2019
 ChGr,SDS,Teilnahme,2022
 ChGr,CC,Teilnahme,2021
 JeLa,SDS,Teilnahme,2020
-JaÜb,BIP,Teilnahme,2019
-JaÜb,PBB,Teilnahme,2020
-JaÜb,JTOU,Teilnahme,2020
-JaÜb,PB,Teilnahme,2020
-JaÜb,K50667,Teilnahme,2020
-JaÜb,BIP,Teilnahme,2022
+JaUb,BIP,Teilnahme,2019
+JaUb,PBB,Teilnahme,2020
+JaUb,JTOU,Teilnahme,2020
+JaUb,PB,Teilnahme,2020
+JaUb,K50667,Teilnahme,2020
+JaUb,BIP,Teilnahme,2022
 KiSc,BIP,Teilnahme,2019
 EvBe,BBP,Teilnahme,2019
 EvBe,PUP,Teilnahme,2020
@@ -138,10 +138,10 @@ EvBe,D25,Teilnahme,2020
 EvBe,BB,Teilnahme,2020
 VaPr,K50667,Teilnahme,2020
 AnMa,SDS,Teilnahme,2020
-KeRü,MDBFUI,Teilnahme,2021
-KeRü,B2,Teilnahme,2019
+KeRu,MDBFUI,Teilnahme,2021
+KeRu,B2,Teilnahme,2019
 TiSt,B2,Teilnahme,2019
-MaSc,B2,Teilnahme,2019
+MaSchm,B2,Teilnahme,2019
 DaTa,B2,Teilnahme,2019
 FlHa,B2,Teilnahme,2019
 SeYa,B2,Teilnahme,2019
@@ -177,13 +177,14 @@ AnOn,BIP,Teilnahme,2019
 MaLo,5SFL,Teilnahme,2021
 SeMa,BIP,Teilnahme,2019
 PaCu,B2,Teilnahme,2015
+AlPe,B2,Teilnahme,2015
 AlPe,SDS,Teilnahme,2015
 PhSt,B2,Teilnahme,2015
 PhSt,GZSZ,Teilnahme,2016
 PhSt,NW,Teilnahme,2018
 MaRi,B2,Teilnahme,2015
 HaKa,B2,Teilnahme,2015
-JöPe,B2,Teilnahme,2015
+JoPe,B2,Teilnahme,2015
 StBi,B2,Teilnahme,2015
 FoKe,B2,Teilnahme,2015
 GoSe,B2,Teilnahme,2015
@@ -204,8 +205,8 @@ TiAd,TMO,Teilnahme,2021
 TiAd,NW,Teilnahme,2016
 ChWe,B2,Teilnahme,2015
 DaMa,B2,Teilnahme,2015
-LaKü,B2,Teilnahme,2015
-AlPe,B2,Teilnahme,2015
+LaKu,B2,Teilnahme,2015
+AliPe,B2,Teilnahme,2015
 NaKl,SYS,Teilnahme,2019
 NaKl,B2,Teilnahme,2018
 NaKl,DOI,Teilnahme,2019
@@ -229,7 +230,7 @@ RaRa,PBB,Teilnahme,2019
 RaRa,BIP,Teilnahme,2019
 RaRa,PC,Teilnahme,2019
 StGr,B2,Teilnahme,2018
-SöAl,B2,Teilnahme,2018
+SoAl,B2,Teilnahme,2018
 DeZr,B2,Teilnahme,2018
 MaDi,B2,Teilnahme,2018
 JaEl,B2,Teilnahme,2018
@@ -277,7 +278,7 @@ EvBu,WWM,Teilnahme,2021
 EvBu,RTLS,Teilnahme,2021
 EvBu,TW,Teilnahme,2021
 EvBu,SDS1,Teilnahme,2021
-EvBu,BB,Teilnahme,2021
+EvBu,BuBa,Teilnahme,2021
 EvBu,DUC,Teilnahme,2021
 EvBu,DGPBa,Teilnahme,2022
 EvBu,C,Teilnahme,2022
@@ -302,7 +303,7 @@ SiJo,B1,Teilnahme,2017
 AlMu,B1,Teilnahme,2017
 SaNe,B1,Teilnahme,2017
 JuFr,B1,Teilnahme,2017
-JaJä,B1,Teilnahme,2017
+JaJa,B1,Teilnahme,2017
 CaSu,B1,Teilnahme,2017
 CaSu,BIP,Teilnahme,2019
 InSe,B1,Teilnahme,2017
@@ -324,7 +325,7 @@ MiBo,MDBFUI,Teilnahme,2021
 Ma,B2,Teilnahme,2017
 Je ,B2,Teilnahme,2017
 ReMa,B2,Teilnahme,2017
-MaSc,B2,Teilnahme,2017
+ManSc,B2,Teilnahme,2017
 LuWi,B2,Teilnahme,2017
 AlHo,B2,Teilnahme,2017
 MiBa,B2,Teilnahme,2017
@@ -371,7 +372,7 @@ JePa,LD,Teilnahme,2018
 JePa,PSQ,Teilnahme,2018
 JePa,FB,Teilnahme,2018
 JePa,PWG,Teilnahme,2018
-JePa,FD,Teilnahme,2019
+JePa,FDi,Teilnahme,2019
 JePa,PIP,Teilnahme,2020
 LeFr,B1,Teilnahme,2016
 LeSaPu,B1,Teilnahme,2016
@@ -397,8 +398,8 @@ RoBe,BIP,Teilnahme,2021
 DoKö,B1,Teilnahme,2016
 MaSc,B1,Teilnahme,2016
 DeDi,B1,Teilnahme,2016
-AnKö,B1,Teilnahme,2016
-AnKö,BIP,Teilnahme,2018
+AnKo,B1,Teilnahme,2016
+AnKo,BIP,Teilnahme,2018
 SaSa,B1,Teilnahme,2016
 ElSt,B1,Teilnahme,2016
 ViSt,B1,Teilnahme,2016
