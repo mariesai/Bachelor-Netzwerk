@@ -96,7 +96,7 @@ ErDo,B1,Teilnahme,2017
 ClJu,B1,Teilnahme,2017
 SePa,B1,Teilnahme,2017
 LeFr,B1,Teilnahme,2016
-LeSaPu,B1,Teilnahme,2016
+LeSoPu,B1,Teilnahme,2016
 DaBu,B1,Teilnahme,2016
 LeRoGa,B1,Teilnahme,2016
 DeTe,B1,Teilnahme,2016
@@ -111,7 +111,7 @@ DiBa,B1,Teilnahme,2016
 StBl,B1,Teilnahme,2016
 KaHe,B1,Teilnahme,2016
 RoBe,B1,Teilnahme,2016
-DoKö,B1,Teilnahme,2016
+DoKo,B1,Teilnahme,2016
 MaSc,B1,Teilnahme,2016
 DeDi,B1,Teilnahme,2016
 AnKo,B1,Teilnahme,2016
@@ -164,8 +164,6 @@ ChWe,B2,Teilnahme,2015
 DaMa,B2,Teilnahme,2015
 LaKu,B2,Teilnahme,2015
 AliPe,B2,Teilnahme,2015
-NaKl,B2,Teilnahme,2018
-AlHi,B2,Teilnahme,2018
 DaLo,B2,Teilnahme,2018
 FiPa,B2,Teilnahme,2018
 BrDw,B2,Teilnahme,2018
@@ -284,7 +282,6 @@ OlSa,DGD,Teilnahme,2021
 CaSp,DGPB,Teilnahme,2022
 SaNo,DGPBa,Teilnahme,2022
 EvBu,DGPBa,Teilnahme,2022
-NaKl,DOI,Teilnahme,2019
 NaKl,DOI,Teilnahme,2019
 CaSp,DS,Teilnahme,2021
 EvBu,DS,Teilnahme,2019
