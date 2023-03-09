@@ -50,3 +50,13 @@ Platzierung der jeweiligen Bachelor-/Bachelorettestaffel
 
 **age**
 Alter zum Zeitpunkt der Teilnahme 
+
+**category**
+1 = Dating-Show 
+2 = Reality-Show 
+3 = Talent-Show 
+4 = Berichterstattung 
+5 = Soaps 
+6 = Spiel-Show 
+7 = Sport-Show 
+8 = Sonstige
