@@ -60,3 +60,14 @@ Alter zum Zeitpunkt der Teilnahme
 6 = Spiel-Show 
 7 = Sport-Show 
 8 = Sonstige
+
+**winner**
+
+**instagram**
+nach Follower:
+1 = 0-10 K
+2 = 10-50 K
+3 = 50-100 K
+4 = 100-500 K
+5 = 500-999 K
+6 = ab 1 Mio
