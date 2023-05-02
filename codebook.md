@@ -1,5 +1,5 @@
 # Datensatz Pretest Bachelor Netzwerk #
-Codebuch Stand 2023-03
+Codebuch Stand 2023-05
 erstellt von Marie Sailer (ms594), Anne Hartung (ah242), Emily Lang (el036), Annika Piper (ap132)
 
 ## Inhalt
@@ -62,6 +62,7 @@ Alter zum Zeitpunkt der Teilnahme
 8 = Sonstige
 
 **winner**
+Finalisten und Gewinner
 
 **instagram**
 nach Follower:
